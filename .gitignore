@@ -1,5 +1,6 @@
-# Ignore Imput files
+# Ignore Input and output files
 input
+output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
